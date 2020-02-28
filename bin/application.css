@@ -1,0 +1,60 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.msgtext {
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: Normal;
+    -fx-font-size: 12;
+    -fx-text-fill: red; 
+}
+.pane {
+    -fx-background-color: linear-gradient(to right, #48CDBD, #23DFA3);
+}
+.buttonLarge {
+    -fx-background-color: rgba(45, 228, 190, 1.0);
+    -fx-border-color: rgba(45, 228, 190, 1.0);
+    -fx-pref-width: 175;
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+.buttonXLarge {
+    -fx-background-color: rgba(45, 228, 190, 1.0);
+    -fx-border-color: rgba(45, 228, 190, 1.0);
+    -fx-pref-width: 205;
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+.buttonSmall {
+    -fx-background-color: rgba(45, 228, 190, 1.0);
+    -fx-border-color: rgba(45, 228, 190, 1.0);
+    -fx-pref-width: 80;
+    -fx-font-family: 'Sans Serif';
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+
+}
+.heading {
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: Normal;
+    -fx-font-size: 20;
+    -fx-text-fill: black;
+
+}
+.alert {
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: Normal;
+    -fx-font-size: 12;
+}
+.labelText {
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: Normal;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+}
+.datePicker {
+    -fx-font-family: 'Sans Serif';
+    -fx-font-weight: bold;
+    -fx-font-size: 12;
+    -fx-background-color: white;
+}

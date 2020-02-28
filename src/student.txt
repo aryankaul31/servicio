@@ -1,0 +1,5 @@
+1|Kaul|Aryan|11|70|community
+2|Shirish|Kiran|11|10|none
+3|Parashar|Utkarsh|11|501|achievement
+4|Mudradi|Rishabh|11|10|none
+5|Student|Test |11|0|none
