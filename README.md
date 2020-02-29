@@ -63,9 +63,9 @@ Click on the "codingandprogrammingfbla" Repository
 Click on the green "Clone or Download" button
 
 Windows:
-On the prompt window, Click on "Download Zip" button. This downloads the application as codingandprogrammingfbla-master.zip.  
-On the local machine, extract the codingandprogrammingfbla-master.zip files to a local folder, say C:\test.  
-Run the program by opening a Command Prompt window and typing cd C:\test\codingandprogrammingfbla-master\Servicio to change directory. Type the command java -jar Servicio.jar src/reports.txt src/student.txt. This opens the application.  
+On the prompt window, Click on "Download Zip" button. This downloads the application as servicio-master.zip.  
+On the local machine, extract the servicio-master.zip files to a local folder, say C:\test.  
+Run the program by opening a Command Prompt window and typing cd C:\test\servicio-master\Servicio to change directory. Type the command java -jar Servicio.jar src/reports.txt src/student.txt. This opens the application.  
 
 Mac:  
 To change directory on mac, navigate into the Servicio folder, click the settings button and say "copy servicio as pathname"
